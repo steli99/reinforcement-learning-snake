@@ -99,18 +99,4 @@ python scripts/execute_notebook.py main.ipynb
 
 This script updates notebook outputs, plots, checkpoints, and result files.
 
-## GitHub
-
-Create an empty repository named `reinforcement-learning-snake`, then upload this folder's **contents**, including the `artifacts/` folder. Do not upload just the ZIP. Alternatively:
-
-```bash
-git init -b main
-git add .
-git commit -m "Add trained Snake actor-critic project"
-git remote add origin https://github.com/YOUR_USERNAME/reinforcement-learning-snake.git
-git push -u origin main
-```
-
-## Attribution
-
-Adapted from the three supplied coursework files. The implementation, fixes, documentation, and experiments were prepared with AI assistance. No ownership or redistribution license is asserted over the original course material.
+e is asserted over the original course material.
