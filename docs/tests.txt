@@ -1,0 +1,19 @@
+test_fruit_grows_body (test_snake.EnvironmentTests.test_fruit_grows_body) ... ok
+test_invalid_actions_and_input_immutability (test_snake.EnvironmentTests.test_invalid_actions_and_input_immutability) ... ok
+test_invariants_after_random_play (test_snake.EnvironmentTests.test_invariants_after_random_play) ... ok
+test_partial_view_matches_full_crop_and_dynamics (test_snake.EnvironmentTests.test_partial_view_matches_full_crop_and_dynamics) ... ok
+test_seed_and_observation (test_snake.EnvironmentTests.test_seed_and_observation) ... ok
+test_self_bite_truncates_without_termination (test_snake.EnvironmentTests.test_self_bite_truncates_without_termination) ... ok
+test_wall_does_not_corrupt_body (test_snake.EnvironmentTests.test_wall_does_not_corrupt_body) ... ok
+test_win_resets_and_marks_terminal (test_snake.EnvironmentTests.test_win_resets_and_marks_terminal) ... ok
+test_finite_gradient_and_weight_update (test_snake.LearningTests.test_finite_gradient_and_weight_update) ... WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1789979553.677121       5 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1789979554.883214       5 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+ok
+test_reset_bootstrap_is_masked (test_snake.LearningTests.test_reset_bootstrap_is_masked) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 4.073s
+
+OK

@@ -1,0 +1,26 @@
+{
+  "full": {
+    "loaded": true,
+    "logit_shape": [
+      2,
+      4
+    ],
+    "value_shape": [
+      2,
+      1
+    ],
+    "step_succeeded": true
+  },
+  "partial": {
+    "loaded": true,
+    "logit_shape": [
+      2,
+      4
+    ],
+    "value_shape": [
+      2,
+      1
+    ],
+    "step_succeeded": true
+  }
+}

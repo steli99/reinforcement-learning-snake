@@ -1,0 +1,8 @@
+{
+  "notebook": "main.ipynb",
+  "status": "passed",
+  "seconds": 122.32,
+  "execution": "Sequential Python cells, matplotlib Agg; no cells skipped",
+  "error": "",
+  "metrics": {}
+}
