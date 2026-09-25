@@ -1,8 +1,4 @@
-"""Execute ordinary Python notebook cells sequentially without a Jupyter server.
 
-Usage: python scripts/execute_notebook.py main.ipynb
-Outputs (including figures) are embedded in the notebook. No external dataset is required.
-"""
 import os
 for key in ['OMP_NUM_THREADS','OPENBLAS_NUM_THREADS','MKL_NUM_THREADS','NUMEXPR_NUM_THREADS']:
     os.environ.setdefault(key,'1')
