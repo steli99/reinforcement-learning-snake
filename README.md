@@ -98,5 +98,3 @@ python scripts/execute_notebook.py main.ipynb
 ```
 
 This script updates notebook outputs, plots, checkpoints, and result files.
-
-e is asserted over the original course material.
